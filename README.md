@@ -4,8 +4,7 @@ Final Exam: Model Deployment in the Cloud
 
 PROJECT IN EMERGING TECHNOLOGIES 2
 
-Submitted By: Alcaraz, Arwen Christine
-             & Suyat, Daniel Joven U.
+Members: Alcaraz, Casquejo, Castillo, Dela Pena, Sanchez, Suyat
 
 Colab Link:
     https://colab.research.google.com/drive/1X1I0tm3NBRzu1kmZGGFxFnC1HbcbQccE?usp=sharing
